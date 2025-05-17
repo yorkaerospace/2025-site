@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'York Aerospace & Rocketry'
+theme = 'stack'
+markup.goldmark.renderer.unsafe = true
