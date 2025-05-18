@@ -1,6 +1,6 @@
 +++
 date = '2022-04-19T00:00:00+00:00'
-draft = true
+draft = false
 title = 'Open and Accessible Design for Model Rocketry'
 image = 'BannerImage.png'
 tags = [

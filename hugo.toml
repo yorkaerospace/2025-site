@@ -24,5 +24,10 @@ since = 2020
 
 [permalinks]
 page= "/:slug/"
+
 [markup.goldmark]
 renderer.unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

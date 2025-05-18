@@ -1,6 +1,6 @@
 +++
 date = '2022-02-28T00:00:00+00:00'
-draft = true
+draft = false
 title = 'York Aerospace and Rocketry: Yorks Most Hands-On Engineering Society'
 image = 'logo.png'
 +++
