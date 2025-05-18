@@ -2,11 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-gb'
 title = 'York Aerospace & Rocketry'
 theme = 'stack'
-markup.goldmark.renderer.unsafe = true
 
 [Params]
 favico = 'favicon.ico'
 Sidebar.avatar.src = 'yar_logo.webp'
+article.math = true
 
 [[Params.widgets.homepage]]
 type = "search"
@@ -24,6 +24,9 @@ since = 2020
 
 [permalinks]
 page= "/:slug/"
+
+[markup.goldmark]
+renderer.unsafe = true
 
 [caches]
   [caches.images]
