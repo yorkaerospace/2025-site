@@ -1,6 +1,6 @@
 +++
 date = '2022-07-25T00:00:00+00:00'
-draft = true
+draft = false
 title = 'Developing In-House Avionics for Model Rocketry'
 image = 'pcbCad.png'
 tags = [

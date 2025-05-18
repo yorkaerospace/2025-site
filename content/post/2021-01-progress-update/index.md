@@ -1,6 +1,6 @@
 +++
 date = '2021-01-11T00:00:00+00:00'
-draft = true
+draft = false
 title = '2021 progress update'
 tags = [
     "team"

@@ -1,6 +1,6 @@
 +++
 date = '2020-03-12T00:00:00+00:00'
-draft = true
+draft = false
 title = 'UK SEDS National Student Space Conference'
 tags = [
     "NSSC",

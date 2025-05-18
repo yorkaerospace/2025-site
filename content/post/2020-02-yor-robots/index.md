@@ -1,6 +1,6 @@
 +++
 date = '2020-02-28T00:00:00+00:00'
-draft = true
+draft = false
 title = 'YorRobots Exhibition Demonstration'
 tags = [
     "electronics",
