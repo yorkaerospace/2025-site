@@ -15,7 +15,7 @@ type =  "archives"
 params = {limit = 5}
 [[Params.widgets.homepage]]
 type = "tag-cloud"
-params = {limit = 10}
+params = {limit = 60}
 [[Params.widgets.page]]
 type = "toc"
 
