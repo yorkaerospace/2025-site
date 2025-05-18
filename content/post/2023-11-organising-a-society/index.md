@@ -5,8 +5,6 @@ title = 'Organising a rocketry society - Part 1 - introductory workshops'
 image = 'banner.png'
 tags = [
     "Team",
-    "Mach",
-    "Mach-23",
 ]
 +++
 In chairing a university rocketry society, I’ve found many people get stuck in the mindset of ‘well, isn’t it literally rocket science??? I’m not smart enough for that.’ As someone who aims to keep things accessible, I’m always disappointed to see starry eyed individuals walk away without even giving it a shot.

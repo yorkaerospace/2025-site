@@ -5,8 +5,6 @@ title = 'Mach-23 Pt 2: The Flight'
 image = 'banner.png'
 tags = [
     "Competition",
-    "Mach",
-    "Mach-23",
 ]
 +++
 
