@@ -3,3 +3,24 @@ languageCode = 'en-gb'
 title = 'York Aerospace & Rocketry'
 theme = 'stack'
 markup.goldmark.renderer.unsafe = true
+
+[Params]
+favico = 'favicon.ico'
+Sidebar.avatar.src = 'yar_logo.webp'
+
+[[Params.widgets.homepage]]
+type = "search"
+[[Params.widgets.homepage]]
+type =  "archives"
+params = {limit = 5}
+[[Params.widgets.homepage]]
+type = "tag-cloud"
+params = {limit = 10}
+[[Params.widgets.page]]
+type = "toc"
+
+[Params.footer]
+since = 2020
+
+[permalinks]
+page= "/:slug/"

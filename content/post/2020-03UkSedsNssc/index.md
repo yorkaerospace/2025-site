@@ -2,6 +2,11 @@
 date = '2020-03-12T00:00:00+00:00'
 draft = true
 title = 'UK SEDS National Student Space Conference'
+tags = [
+    "NSSC",
+    "UK SEDS",
+    "Conference"
+]
 +++
 
 On Saturday the 7th March, some dedicated members of our group embarked on their intrepid journey into the depths of Birmingham University for the National Student Space Conference. Because keen is their apparent collective middle name, they were up at 4:30 in the morning to get their 6am train. Despite such an early awakening two of the five managed to miss the train whilst the others had to sprint across York to get the bus. After they had their early morning athletic ability challenged they had a riveting day ahead of them, of endless talks and panels - the kind of thing that only true nerds would enjoy! So naturally, our group loved it - no surprises there! I got one of the boys to leave me a note on what the talks were about, but for those of you who don't know - or somehow missed the very very subtle hints - I am not a scientist so please don't get too upset because I am probably horrifically butchering the cool science content of these talks!

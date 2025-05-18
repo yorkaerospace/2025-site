@@ -2,6 +2,9 @@
 date = '2021-01-11T00:00:00+00:00'
 draft = true
 title = '2021 progress update'
+tags = [
+    "team"
+]
 +++
 Well, what a last few months it has been. If you had told us about the state that the world and the country would be in now 5 months ago we would never have believed you. First of all I would like to apologise for our rather longer than anticipated absence from the blog and our other social media accounts. I promise, we have been working behind the scenes the whole time but have been struggling to find material that we felt was worthy of sharing with you all. With it being 2021 now, I have made a personal resolution to work harder to keep updating our platforms with our progress because I know there are people out there who would find it beneficial, now more than ever, to see how we have tried to approach and overcome all of the problems that 2020 had thrown at us. I hope this post will serve to fill the gap of the last few months and catch you all up to date on what we have been up to.
 

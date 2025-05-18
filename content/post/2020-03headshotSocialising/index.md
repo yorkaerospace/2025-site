@@ -2,6 +2,10 @@
 date = '2020-03-12T00:00:00+00:00'
 draft = true
 title = 'Headshot Socialising'
+tags = [
+    "marketing",
+    "website"
+]
 +++
 So I think I have accidentally created a clickbait title for this blog post - so if you are here looking for some kind of weird shooting related social content prepare to be horrifically disappointed...😁
 
