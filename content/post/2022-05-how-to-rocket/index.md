@@ -1,6 +1,6 @@
 +++
 date = '2022-04-19T00:00:00+00:00'
-draft = true
+draft = false
 title = 'How to build a Model Rocket: Nordri'
 image = 'LowerAssembly.jpg'
 tags = [
