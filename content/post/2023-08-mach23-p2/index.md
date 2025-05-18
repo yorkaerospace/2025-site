@@ -1,6 +1,6 @@
 +++
 date = '2023-08-10T00:00:00+00:00'
-draft = true
+draft = false
 title = 'Mach-23 Pt 2: The Flight'
 image = 'banner.png'
 tags = [

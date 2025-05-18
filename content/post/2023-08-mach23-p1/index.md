@@ -1,7 +1,7 @@
 +++
 date = '2023-08-04T00:00:00+00:00'
-draft = true
-title = '     Mach-23 Pt 1: Design and Build'
+draft = false
+title = 'Mach-23 Pt 1: Design and Build'
 image = 'banner.png'
 tags = [
     "Manufacturing",

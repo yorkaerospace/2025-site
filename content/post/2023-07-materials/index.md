@@ -1,6 +1,6 @@
 +++
 date = '2023-07-20T00:00:00+00:00'
-draft = true
+draft = false
 title = 'Material Choices for Model Rocketry'
 image = 'banner.png'
 tags = [

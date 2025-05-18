@@ -1,6 +1,6 @@
 +++
 date = '2022-12-15T00:00:00+00:00'
-draft = true
+draft = false
 title = 'Designing a Simple Avionics PCB For Model Rocketry'
 image = 'banner.png'
 tags = [
