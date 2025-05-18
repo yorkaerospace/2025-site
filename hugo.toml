@@ -24,3 +24,7 @@ since = 2020
 
 [permalinks]
 page= "/:slug/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
